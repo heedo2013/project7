@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+div.table{
+    direction: rtl;
+}
+table{
+    direction: rtl;
+}
